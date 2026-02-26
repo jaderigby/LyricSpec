@@ -11,22 +11,22 @@ Music production has evolved.
 
 We now work across:
 
--   DAWs\
--   Collaboration tools\
--   Git repositories\
--   AI music generation platforms\
+-   DAWs
+-   Collaboration tools
+-   Git repositories
+-   AI music generation platforms
 -   Live performance cue systems
 
 But lyric files are still mostly:
 
--   Plain text with no structure\
+-   Plain text with no structure
 -   Or closed proprietary formats
 
 **Lyric / Lyricx** is a simple, open standard that bridges:
 
--   Human readability\
--   Producer usability\
--   Machine parsing\
+-   Human readability
+-   Producer usability
+-   Machine parsing
 -   AI integration
 
 Without sacrificing simplicity.
@@ -41,9 +41,9 @@ A structured lyric format with section labels.
 
 Use when you want:
 
--   Clear section delineation\
--   Producer-friendly organization\
--   AI-ready generation metadata\
+-   Clear section delineation
+-   Producer-friendly organization
+-   AI-ready generation metadata
 -   Clean readability in plain text
 
 Example:
@@ -72,10 +72,10 @@ An extended format that adds precise timing metadata.
 
 Use when you need:
 
--   Timestamp-aligned vocals\
--   Structured cueing\
--   Synchronization with audio\
--   AI singing alignment\
+-   Timestamp-aligned vocals
+-   Structured cueing
+-   Synchronization with audio
+-   AI singing alignment
 -   Arrangement reconstruction
 
 Example:
@@ -156,7 +156,7 @@ platform.
 
 ### 5. Extensible Without Bloat
 
-Minimal core.\
+Minimal core.
 Open-ended generation metadata.
 
 ------------------------------------------------------------------------
@@ -179,16 +179,16 @@ is for you.
 
 Markdown is flexible but:
 
--   Has no timing structure\
--   Has no ordering rules\
--   Has no defined musical metadata fields\
+-   Has no timing structure
+-   Has no ordering rules
+-   Has no defined musical metadata fields
 -   Is inconsistent across implementations
 
 Lyric / Lyricx defines:
 
--   Order\
--   Timing precision\
--   Section rules\
+-   Order
+-   Timing precision
+-   Section rules
 -   Header semantics
 
 While remaining as readable as Markdown.
